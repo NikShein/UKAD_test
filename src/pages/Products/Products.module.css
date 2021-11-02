@@ -1,0 +1,17 @@
+.container {
+    padding: 40px 20px 66px 20px;
+}
+
+.container h1{
+    margin-left: 0px;
+    margin-bottom: 16px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start ;
+    flex-wrap: wrap;
+}
+
+

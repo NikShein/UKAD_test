@@ -1,0 +1,16 @@
+.slick-slider {
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    margin-bottom: 300px !important;
+}
+
+.slick-slide {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.slick-track {
+    display: flex !important;
+    align-items: center !important;
+}

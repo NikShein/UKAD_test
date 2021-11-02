@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    background-color: #022B32;
+    height: 78px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.copyright {
+    color: white;
+    margin-left: 29px;
+}
